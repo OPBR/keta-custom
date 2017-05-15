@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="keta-custom-component" />
+        <module name="keta-custom-generate" />
+        <module name="keta-custom-main" />
+        <module name="keta-custom-resources" />
+        <module name="sample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="keta-custom" target="1.6" />
+      <module name="keta-custom-component" target="1.6" />
+      <module name="keta-custom-generate" target="1.6" />
+      <module name="keta-custom-main" target="1.6" />
+      <module name="keta-custom-resources" target="1.6" />
+      <module name="sample" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

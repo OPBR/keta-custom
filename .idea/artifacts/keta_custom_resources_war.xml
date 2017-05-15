@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="keta-custom-resources:war">
+    <output-path>$PROJECT_DIR$/keta-custom-resources/target</output-path>
+    <root id="archive" name="keta-custom-resources.war">
+      <element id="artifact" artifact-name="keta-custom-resources:war exploded" />
+    </root>
+  </artifact>
+</component>
